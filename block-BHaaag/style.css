@@ -1,0 +1,17 @@
+body {
+	background-color: #27408B;
+}
+.header {
+	color: white;
+}
+h1 {
+	color: green;
+}
+h3, h4, h5, p, li {
+	color: white;
+}
+
+
+a {
+	color: red;
+}
