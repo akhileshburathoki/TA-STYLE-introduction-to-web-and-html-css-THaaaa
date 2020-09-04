@@ -1,0 +1,27 @@
+body {
+	background-color: #27408B;
+}
+.header {
+	text-align: center;
+}
+h1 {
+	color: green;
+}
+h3, h4, h5, p, li {
+	color: white;
+}
+ul {
+	list-style-type: none;
+}
+.nav {
+	background-color: #22316C;
+	text-align: center;
+	color: red;
+}
+.log {
+	color: white;
+}
+a {
+	color: red;
+	margin: 8px;
+}
